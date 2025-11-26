@@ -1,0 +1,15 @@
+body {font-family: Arial, sans-serif;color:#222;margin:0;padding:0;}
+h1,h2,h3 {font-family: Georgia, serif;color:#003366;}
+body.home-page{background:#f5f5f5;}
+body.resume-page{background:#eef4ff;}
+body.projects-page{background:#fdf6ec;}
+.nav-bar{background:#333;color:#fff;padding:10px;}
+.nav-bar a{color:white;text-decoration:none;margin-right:10px;}
+.content,.extra{padding:15px;}
+.info-table{width:100%;border-collapse:collapse;margin-top:10px;}
+.info-table th,.info-table td{border:1px solid #999;padding:6px;}
+.info-table thead{background:#ddd;}
+img{max-width:100%;height:auto;}
+form input, form textarea {width:100%;max-width:300px;padding:6px;margin-bottom:6px;}
+button {padding:6px 12px;}
+footer{background:#333;color:white;text-align:center;padding:8px;margin-top:20px;}
